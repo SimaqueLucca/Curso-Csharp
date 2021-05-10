@@ -1,0 +1,16 @@
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\bin\Debug\net5.0\Exercicio de Fixacao.exe
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\bin\Debug\net5.0\Exercicio de Fixacao.deps.json
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\bin\Debug\net5.0\Exercicio de Fixacao.runtimeconfig.json
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\bin\Debug\net5.0\Exercicio de Fixacao.runtimeconfig.dev.json
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\bin\Debug\net5.0\Exercicio de Fixacao.dll
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\bin\Debug\net5.0\ref\Exercicio de Fixacao.dll
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\bin\Debug\net5.0\Exercicio de Fixacao.pdb
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\obj\Debug\net5.0\Exercicio de Fixacao.csprojAssemblyReference.cache
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\obj\Debug\net5.0\Exercicio de Fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\obj\Debug\net5.0\Exercicio de Fixacao.AssemblyInfoInputs.cache
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\obj\Debug\net5.0\Exercicio de Fixacao.AssemblyInfo.cs
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\obj\Debug\net5.0\Exercicio de Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\obj\Debug\net5.0\Exercicio de Fixacao.dll
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\obj\Debug\net5.0\ref\Exercicio de Fixacao.dll
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\obj\Debug\net5.0\Exercicio de Fixacao.pdb
+C:\Users\Luca Simaque Souza\Desktop\Curso Csharp\Arrays\Exercicio de Fixacao\obj\Debug\net5.0\Exercicio de Fixacao.genruntimeconfig.cache
