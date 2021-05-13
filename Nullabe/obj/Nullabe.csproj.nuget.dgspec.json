@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luca Simaque Souza\\Desktop\\Nullabe\\Nullabe.csproj": {}
+    "C:\\Users\\Luca Simaque Souza\\Desktop\\Curso Csharp\\Nullabe\\Nullabe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luca Simaque Souza\\Desktop\\Nullabe\\Nullabe.csproj": {
+    "C:\\Users\\Luca Simaque Souza\\Desktop\\Curso Csharp\\Nullabe\\Nullabe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luca Simaque Souza\\Desktop\\Nullabe\\Nullabe.csproj",
+        "projectUniqueName": "C:\\Users\\Luca Simaque Souza\\Desktop\\Curso Csharp\\Nullabe\\Nullabe.csproj",
         "projectName": "Nullabe",
-        "projectPath": "C:\\Users\\Luca Simaque Souza\\Desktop\\Nullabe\\Nullabe.csproj",
+        "projectPath": "C:\\Users\\Luca Simaque Souza\\Desktop\\Curso Csharp\\Nullabe\\Nullabe.csproj",
         "packagesPath": "C:\\Users\\Luca Simaque Souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luca Simaque Souza\\Desktop\\Nullabe\\obj\\",
+        "outputPath": "C:\\Users\\Luca Simaque Souza\\Desktop\\Curso Csharp\\Nullabe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luca Simaque Souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
